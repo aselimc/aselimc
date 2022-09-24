@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aselimc" target="blank"><img src="https://img.shields.io/twitter/follow/aselimc?logo=twitter&style=for-the-badge" alt="aselimc" /></a> </p>
 
-- 🔭 I’m currently working on [OpenDR](https://github.com/opendr-eu/opendr)
-
-- 🌱 I’m currently learning **Panoptic Segmentation**
-
-- 💬 Ask me about **PyTorch**
+- Currently working on [OpenDR](https://github.com/opendr-eu/opendr)
 
 - 📫 How to reach me **ascanakci@gmail.com**
 

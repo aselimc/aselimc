@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aselimc&label=Profile%20views&color=0e75b6&style=flat" alt="aselimc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aselimc" target="blank"><img src="https://img.shields.io/twitter/follow/aselimc?logo=twitter&style=for-the-badge" alt="aselimc" /></a> </p>
-
 - Currently working on [OpenDR](https://github.com/opendr-eu/opendr)
 
 - 📫 How to reach me **ascanakci@gmail.com**

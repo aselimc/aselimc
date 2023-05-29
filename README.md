@@ -1,8 +1,6 @@
 <h1 align="center">Ahmet Selim Canakci</h1>
 <h3 align="center">Deep Learning / Computer Vision Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aselimc&label=Profile%20views&color=0e75b6&style=flat" alt="aselimc" /> </p>
-
 - Currently working on [OpenDR](https://github.com/opendr-eu/opendr)
 
 - 📫 How to reach me **ascanakci@gmail.com**

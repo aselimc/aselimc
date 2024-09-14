@@ -1,8 +1,6 @@
 <h1 align="center">Ahmet Selim Canakci</h1>
 <h3 align="center">Deep Learning / Computer Vision Engineer</h3>
 
-- Currently working on [OpenDR](https://github.com/opendr-eu/opendr)
-
 - 📫 How to reach me **ascanakci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
